@@ -1,0 +1,5 @@
+{
+  "clientId": "bot id here",
+  "guildId": "guild id here",
+  "modLogsChannelID": "moderation logs channel id here"
+}
