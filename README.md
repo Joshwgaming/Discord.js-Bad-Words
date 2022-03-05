@@ -1,5 +1,5 @@
 # Discord.js-Bad-Words
-Bad Words automod. Punish users for saying set words
+Bad Words automod. Punish users for saying set words using discord's timeout feature!
 
 This code was last tested & working with `discord.js v13.6.0` & `node.js v13.13.0`
 
