@@ -1,4 +1,4 @@
-const { LoggingChannelID } = require('../config.json');
+const { LoggingChannelID } = require('./config.json');
 const badWordsTier1 = require('./badWordsTier1.json');
 const badWordsTier2 = require('./badWordsTier2.json');
 const badWordsTier3 = require('./badWordsTier3.json');
