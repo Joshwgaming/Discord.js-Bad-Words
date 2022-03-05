@@ -1,7 +1,5 @@
 # Discord.js-Bad-Words - Mute/Warn for harmful/malicious words
 
-Automatically delete messages that contain bad links and permanently mute the user for doing so.
-
 In here you will find the raw source code for Bad-Words for you to merge with your current code.
 
 Like the standalone bot, I recommend placing the BadLinks stuff in a seperate automod folder to keep it organized. Alternatively it will work if you chuck it all in the index.js file.
