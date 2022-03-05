@@ -1,7 +1,5 @@
 # Discord.js-Bad-Words - Mute/Warn for harmful/malicious words
 
-### Now updated & working with discord.js v13!
-
 Automatically delete messages that contain bad links and permanently mute the user for doing so.
 
 In here you will find the raw source code for Bad-Words for you to merge with your current code.
