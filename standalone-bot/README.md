@@ -27,3 +27,9 @@ Note: I will not provide direct instructions on how to merge this code with your
 - Start your bot by typing `node index.js` in your terminal.
 
 If set up correctly, your bot should be running & working.
+
+If you do not wish for any words to be included in any of the tiers, simply leave the json file blank. See below for a blank json file format so that the code still functions without any errors.
+```
+[
+]
+```
