@@ -1,1 +1,4 @@
-
+{
+    "botToken": "bot token here",
+    "LoggingChannelID": "channel id here"
+}
